@@ -1,0 +1,5 @@
+node_modules/
+native/target/
+.DS_Store
+*.log
+PLANO-wrapper-ts-esbuild-install.md
